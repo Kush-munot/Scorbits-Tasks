@@ -1,0 +1,14 @@
+.tile {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.small {
+    height: 10vh;
+}
+
+.large {
+    height: 20vh;
+}
